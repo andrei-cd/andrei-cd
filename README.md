@@ -10,6 +10,6 @@ Computer Science student at **UC Irvine** specializing in Intelligent Systems. I
 
 AirCursor and Build a Bunker are closed source, but I'm happy to walk through the code on request.
 
-**Usually working in:** Swift · Luau · Python · TypeScript
+**Usually working in:** Python · Luau · Swift · TypeScript
 
-[LinkedIn](https://linkedin.com/in/andrei-cruspero) · [adcruspe@uci.edu](mailto:adcruspe@uci.edu)
+[LinkedIn](https://linkedin.com/in/andrei-cruspero) · adcruspe [at] uci [dot] edu
